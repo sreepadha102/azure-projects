@@ -11,4 +11,4 @@
 
 Note: 
 > - If you have configured slots then create an integration only for the slot webapp, Here you have to provide the slot webapp URL instead the prod url.
-  - Its not recommended to have integration for the production webapp slot.
+> - Its not recommended to have integration for the production webapp slot.
